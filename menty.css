@@ -58,7 +58,7 @@ header{
     padding-left:10px;
 }
 .i1{
-    background-image: url("/hero-bg.jpg");
+    background-image: url("assets/hero-bg.jpg");
     filter:brightness(80%);
     min-height: 500px;
     background-attachment: fixed;
